@@ -1,2 +1,15 @@
-# Titanic-Survival-Prediction
-This project compares the metrics of  3 machine learning models, Decision tree, XGBoost, and neural network in order to find the most accurate prediction of titanic survival.
+#Titanic Survival Prediction
+
+This project uses machine learning to predict whether a passenger survived the Titanic disaster based on features such as age, sex, class, and family information.
+
+The goal is to compare different models (Decision Tree, XGBoost, and a Neural Network) and understand which features are most important for survival prediction.
+
+---
+
+## Dataset
+
+The training data is stored in:
+
+```text
+train.csv
+
